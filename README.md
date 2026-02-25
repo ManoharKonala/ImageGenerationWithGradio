@@ -2,7 +2,7 @@
 
 An advanced, serverless hybrid AI image generation dashboard built with **Gradio** and the **Hugging Face Inference API**. This project demonstrates how to orchestrate multiple state-of-the-art Generative AI models into a single, cohesive, premium interface without requiring high-end local GPUs.
 
-![GenAI Studio Interface](.github/preview.png) *(Preview placeholder)*
+
 
 ## 🚀 Key Features
 
